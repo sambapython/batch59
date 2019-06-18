@@ -1,6 +1,3 @@
-print("hell0")
-print("hel")
-a=1000
-b=2000
-c=a+b
-print("res:",c)
+def fun1(a,b):
+	import pdb;pdb.set_trace()
+	print(a,b)

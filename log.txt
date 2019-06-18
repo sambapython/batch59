@@ -1,0 +1,20 @@
+INFO:root:app execution started
+INFO:root:a value entered..
+INFO:root:b value entered..
+DEBUG:root:before conversion a=12,b=6
+INFO:root:a value converted...
+INFO:root:b value converted ...
+DEBUG:root:after conversion: a=12.0, b=6.0
+INFO:root:calculation completed..
+DEBUG:root:result=2.0
+INFO:root:app execution completed.......
+2019-06-18 08:51:15,809-->INFO==>app execution started
+2019-06-18 08:51:16,352-->INFO==>a value entered..
+2019-06-18 08:51:16,954-->INFO==>b value entered..
+2019-06-18 08:51:16,954-->DEBUG==>before conversion a=12,b=6
+2019-06-18 08:51:16,954-->INFO==>a value converted...
+2019-06-18 08:51:16,954-->INFO==>b value converted ...
+2019-06-18 08:51:16,954-->DEBUG==>after conversion: a=12.0, b=6.0
+2019-06-18 08:51:16,954-->INFO==>calculation completed..
+2019-06-18 08:51:16,954-->DEBUG==>result=2.0
+2019-06-18 08:51:16,954-->INFO==>app execution completed.......
